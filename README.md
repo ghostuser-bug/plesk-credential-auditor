@@ -101,6 +101,3 @@ Pull requests and improvements are welcome to enhance functionality, add protoco
 ```
 MIT License
 ```
-
-Do you want me to do that next?
-```
